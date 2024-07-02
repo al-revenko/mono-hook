@@ -1,0 +1,16 @@
+{
+  "name": "hook-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": ["./*"],
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run dev -ws"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+
+}
