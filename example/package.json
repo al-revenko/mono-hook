@@ -16,7 +16,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "@lokixio/hook": "^1.0.0"
+    "@lokixio/foo-hook": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
