@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import useFoo from '@lokixio/foo-hook';
+import { useFoo } from '@lokixio/foo-hook';
 
 function App() {
   const [count, setCount] = useState(0);
